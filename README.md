@@ -70,6 +70,11 @@ Encontramos un puerto 22 en escucha:
 ```
 ps -eafww
 ssh -i .ssh/mykey root@127.0.0.1
+
+las pass phrase
+
+OkilyDokily
+
 ```
 
 Vemos que se esta ejecutando ese ssh como root lo tomamos!
